@@ -1,4 +1,7 @@
 # python-mini-project-group1
+
+
+
 1. **Onboarding Questionnaire**  
    - Gender, age, and education level  
    - Enforces age restrictions (must be ≥ 18 years old)  
