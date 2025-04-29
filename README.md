@@ -1,8 +1,8 @@
 # python-mini-project
 
-**Andy Clazada**
+**Andy Calzada**
 
-**Javier Elizade**
+**Javier Elizalde**
 
 **Short Description**
 HIMS (Highly Intelligent Matchmaking System) allows a user to find a job that matches thier dream job in a flash. Do you have worries or may be conflicted in a job don't worry that's what HIMS is here for. You will answer a quick questionnaire that will let us find the best matching job by using Gender, Age, and Eucation Level, from thier you can pick an assortment of Traits that best match you as a person and search throught the top 5 jobs in with your given traits. So what are you waiting for step right up and try HIMS today!
